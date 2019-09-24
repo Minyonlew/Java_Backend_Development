@@ -36,10 +36,10 @@
 ##### 2、JAVA 基本数据类型
 
 - Java是一种 **强类型语言** 
-  - **常量 ** 是有数据类型的
-  - **变量 ** 都必须声明其数据类型。
+  - **常量** 是有数据类型的
+  - **变量** 都必须声明其数据类型。
 
-![02](G:\0ASXTJAVA\Lesson\day02\day02\Day02self_summary\02.png)
+![02](https://github.com/Minyonlew/Java_Backend_Development/blob/master/Day02self_summary/02.png)
 
 
 
@@ -70,4 +70,7 @@
     ```
 
     
+<<<<<<< HEAD
     
+=======
+>>>>>>> f3487e400788e6e990e53c838560f6cfd64bea7d
