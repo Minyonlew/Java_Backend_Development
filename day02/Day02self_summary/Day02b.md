@@ -8,7 +8,7 @@
 
 ### 1、整型
 
-![b01](C:\Users\Minyon\Desktop\b01.png)
+![b01](https://github.com/Minyonlew/Java_Backend_Development/blob/master/day02/Day02self_summary/b01.png)
 
 
 
@@ -44,7 +44,7 @@
 
 ### 2、浮点型
 
-![b02](G:\0ASXTJAVA\Lesson\day02\day02\Day02self_summary\b02.png)
+![b02](https://github.com/Minyonlew/Java_Backend_Development/blob/master/day02/Day02self_summary/b02.png)
 
 
 
@@ -103,7 +103,7 @@
 
     
 
-  ​          ![b03](C:\Users\Minyon\Desktop\b03.png)
+  ​          ![b03](https://github.com/Minyonlew/Java_Backend_Development/blob/master/day02/Day02self_summary/b03.png)
 
 
 
@@ -192,6 +192,12 @@
     System.out.print(a==b);	  // 输出-> false
     System.out.print(a!=b);   // 输出-> true
     
+<<<<<<< HEAD
+=======
+    //对于引用数据类型，==并不能判断两边的内容是否相等   
+    //例如 字符串
+    ```
+>>>>>>> d6108a0631ec4b3a6378db8efa31a148ab12d81b
 
     //对于引用数据类型，==并不能判断两边的内容是否相等   
     //例如 字符串
@@ -262,7 +268,7 @@
 
 - 运算符的优先级
 
-  ![b04](G:\0ASXTJAVA\Lesson\day02\day02\Day02self_summary\b04.png)
+  ![b04](https://github.com/Minyonlew/Java_Backend_Development/blob/master/day02/Day02self_summary/b04.png)
 
 
 
