@@ -191,8 +191,12 @@
     System.out.print(a<=b);	  // 输出-> true 
     System.out.print(a==b);	  // 输出-> false
     System.out.print(a!=b);   // 输出-> true
-    ```
+    
 
+    //对于引用数据类型，==并不能判断两边的内容是否相等   
+    //例如 字符串
+    ```
+    
     
 
 - 逻辑运算符
