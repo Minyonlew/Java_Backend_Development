@@ -213,7 +213,7 @@
   		ls.add(new Worker01("旺财3", 30, 3000.0));
   		ls.add(new Worker01("旺财4", 29, 3000.0));
   		
-  		//通过 内部实现Comparable 实现对象的排序 ？？
+  
   		//为什么还需要Collection的排序呢？？
   		Collections.sort(ls);
   		System.out.println(ls);
